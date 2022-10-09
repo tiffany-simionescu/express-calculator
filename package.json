@@ -1,0 +1,22 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "A calculator using express.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffany-simionescu/express-calculator.git"
+  },
+  "author": "Tiffany Simionescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffany-simionescu/express-calculator/issues"
+  },
+  "homepage": "https://github.com/tiffany-simionescu/express-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
