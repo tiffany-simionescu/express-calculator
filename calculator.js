@@ -3,7 +3,7 @@ const app = express();
 
 // Root Directory
 app.get("/", function (req, res) {
-    res.send("Hello World");
+    res.sendFile(`${__dirname}/index.html`);
 });
 
 // Server Setup
